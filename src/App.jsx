@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <span>helloworld</span>
+      <span>Weather Dashboard Web App</span>
       <form>
         <input type="text" class="cityInput" placeholder="Enter city"></input>
         <button type="submit">Submit</button>
